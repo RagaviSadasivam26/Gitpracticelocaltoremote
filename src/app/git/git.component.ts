@@ -10,4 +10,5 @@ import { CommonModule } from '@angular/common';
 })
 export class GitComponent {
   Title = "Github Repository"
+  Task = "Github Process - Transferring angular project from Local Repository to Remote Repository"
 }

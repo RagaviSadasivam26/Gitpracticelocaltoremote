@@ -1,5 +1,6 @@
 import { TestBed } from '@angular/core/testing';
 import { AppComponent } from './app.component';
+import { GitComponent } from './git/git.component';
 
 describe('AppComponent', () => {
   beforeEach(async () => {
